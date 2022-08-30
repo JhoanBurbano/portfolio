@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="799.5" height="609" version="1.1" viewBox="0 0 211.53 161.13" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter25169" x="-.0012245" y="-.0038929" width="1.0024" height="1.0078" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.0025924426"/>
+  </filter>
+ </defs>
+ <rect x="-1.6853" y=".071698" width="217.14" height="164.56" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0649"/>
+ <g transform="translate(-.27758 -21.211)">
+  <text transform="scale(.94104 1.0627)" x="112.35585" y="125.92029" fill="#0000ff" filter="url(#filter25169)" font-family="sans-serif" font-size="66.584px" stroke="#55ffdd" stroke-width=".38414" style="line-height:1.1;mix-blend-mode:normal" xml:space="preserve"><tspan x="112.35585" y="125.92029" fill="#d38d5f" font-family="'URW Gothic'" font-size="66.584px" font-weight="bold" stroke="none" stroke-width=".38414" text-align="center" text-anchor="middle">Cans</tspan></text>
+  <g fill="#d38d5f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.326">
+   <circle cx="83.153" cy="86.161" r="6.9255"/>
+   <circle cx="112.11" cy="84.243" r="6.9255"/>
+   <circle cx="97.369" cy="75.558" r="6.9255"/>
+  </g>
+ </g>
+</svg>
